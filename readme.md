@@ -14,21 +14,21 @@
  
  🌱 I’m currently learning *React Native*
 
-💬 Ask me about *Javascript, Typescript, React, Solidity, NodeJS... or anything [here](tusharshinde2250@gmail.com)*
+💬 Ask me about *Javascript, Typescript, React, Solidity, NodeJS... or anything [here](mailto:pavanbhosle1616@gmail.com)*
 
 ⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
  </div>
  
 <div align="center"> 
-  <a href="tusharshinde2250@gmail.com">
+  <a href="mailto:pavanbhosle1616@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/pavan-bhosle-877b9624b" target="_blank">
+  <a href="https://www.linkedin.com/in/pavan-bhosle-877b9624b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://portfolio-tush.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
