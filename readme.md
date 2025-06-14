@@ -30,9 +30,9 @@
 
 <div align="center">
   <h2>Buy me a Coffee</h2>
-  <a href="[https://buymeacoffee.com/heyrapto](https://buymeacoffee.com/bhosle?new=1)" target="_blank" style="text-decoration: none;">
+  <a href="[[https://buymeacoffee.com/heyrapto](https://buymeacoffee.com/bhosle?new=1)](https://buymeacoffee.com/bhosle)" target="_blank" style="text-decoration: none;">
     <img 
-      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+      src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://buymeacoffee.com/bhosle)" 
       alt="Buy Me a Coffee" 
       style="height: 60px; width: 217px;" />
   </a>
