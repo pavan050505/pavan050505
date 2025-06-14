@@ -12,9 +12,9 @@
  
  🔭 I’m currently *building my ideas and trying to be an 100x dev*
  
- 🌱 I’m currently learning *React Native*
+ 🌱 I’m currently learning *AI*
 
-💬 Ask me about *Javascript, Typescript, React, Solidity, NodeJS... or anything [here](mailto:pavanbhosle1616@gmail.com)*
+💬 Ask me about *Python, AI&ML... or anything [here](mailto:pavanbhosle1616@gmail.com)*
 
 ⚡ Fun fact *Game of Thrones Night's Watch cloaks are made from Ikea rugs*
 
