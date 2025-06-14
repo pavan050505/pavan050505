@@ -28,18 +28,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
-<br/>
-<div align="center">
-    
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,express,solidity" width={100}/><br>
-</div>
-
-<br/>
-<hr/>
-
 <div align="center">
   <h2>Buy me a Coffee</h2>
   <a href="https://buymeacoffee.com/heyrapto" target="_blank" style="text-decoration: none;">
