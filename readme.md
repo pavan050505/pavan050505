@@ -1,6 +1,6 @@
 <!-- Profile Visitor Badge -->
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pavanbhosle1616" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pavan050505" alt="Visitor Badge" />
 </p>
 
 <!-- Animated Intro -->
@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <b>AI/DS Engineer •  Creative Technologist</b>
+  <b>AI/DS Engineer • Creative Technologist</b>
 </p>
 
 ---
@@ -30,6 +30,8 @@
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
 
 <!-- AI / ML -->
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -78,8 +80,8 @@ Real-time vehicle detection using OpenCV, ML, and deep learning tech.
 
 ## 📊 **GitHub Analytics**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pavanbhosle1616&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=pavanbhosle1616&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pavan050505&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=pavan050505&theme=tokyonight" />
 </p>
 
 ---
