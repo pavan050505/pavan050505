@@ -1,26 +1,26 @@
 <!-- Profile Visitor Badge -->
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pavanbhosle1616.pavanbhosle1616" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pavanbhosle1616" alt="Visitor Badge" />
 </p>
 
-<!-- Animated Typing Intro -->
+<!-- Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=0df2ff&center=true&vCenter=true&width=650&lines=Hi,+I'm+Pavan+Bhosle!;AI+%26+DS+Engineer;Full-Stack+Developer;ML+%7C+DL+%7C+Web+Dev+Enthusiast" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=27F3FF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Pavan+Bhosle!;AI+%26+DS+Engineer;Full-Stack+Developer;ML+%7C+DL+%7C+Web+Dev+Enthusiast" />
 </h1>
 
 <p align="center">
-  <b>Passionate AI Engineer • Creative Developer • 100x Engineer in Progress 🚀</b>
+  <b>AI/DS Engineer • Full-Stack Developer • Creative Technologist</b>
 </p>
 
 ---
 
-### 👨‍💻 **About Me**
+## 👨‍💻 **About Me**
 <p align="center">
-  🌟 Final-year AI & DS Engineer passionate about building AI-powered solutions<br/>
-  🧠 Exploring Deep Learning, NLP, Generative AI, Web Apps & 3D Experiences<br/>
-  🚀 Currently building: AI Career Coach, Vehicle Detection System & UniConnect Platform<br/>
-  🎥 I also run a YouTube channel <b>Slam Book</b> (Love, Emotions & Life – Marathi)<br/>
-  💬 Ask me anything about Python, AI/ML, Web Development, or Career Guidance!
+  Final-year AI & Data Science Engineer exploring Machine Learning, Deep Learning, NLP,<br/>
+  and modern Web Development. Passionate about building AI-powered products and<br/>
+  interactive 3D web experiences using Three.js & React.
+  <br/><br/>
+  Currently building: <b>AI Career Coach, UniConnect, Gesture Game, and RoomCraft</b>.
 </p>
 
 ---
@@ -30,47 +30,49 @@
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
-<img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<!-- ML/AI -->
+<!-- AI / ML -->
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 <!-- Web Dev -->
-<img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🌟 **My Featured Projects**
+## 🚀 **Highlighted Projects**
 
-### 🔹 **AI Career Coach (Full Stack + AI)**
-Personalized career recommendations using ML, Resume Analyzer, Mock Interview, Dashboard.
+### 🔹 **AI Career Coach**
+AI-powered system that gives smart career suggestions, resume analysis, mock interviews & dashboards.
 
 ### 🔹 **UniConnect – Student Social Platform**
-Instagram-like feed, events, profiles, messaging & friend system (Flask + MongoDB).
+Profile system, posts, events, messaging, friends – like a modern student community app.
 
-### 🔹 **RoomCraft – AI Interior Designer**
-Upload room → AI transforms it into a modern interior design look.
+### 🔹 **RoomCraft – AI Interior Design**
+Upload a room → AI generates modern interior variations.
 
-### 🔹 **Gesture Game (OpenCV + Mediapipe + PyGame)**
-Control game using hand and body gestures.
+### 🔹 **Gesture Game (OpenCV + Mediapipe)**
+Control gameplay using hand and body gestures.
 
-### 🔹 **Vehicle Detection & Category Wise Counting (OpenCV)**
-Real-time vehicle classification & counting system.
+### 🔹 **Vehicle Detection & Category Counting**
+Real-time vehicle detection using OpenCV, ML, and deep learning tech.
 
 ---
 
@@ -78,13 +80,6 @@ Real-time vehicle classification & counting system.
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pavanbhosle1616&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=pavanbhosle1616&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 **My Contribution Snake**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pavanbhosle1616/pavanbhosle1616/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -108,5 +103,5 @@ Real-time vehicle classification & counting system.
 ---
 
 <p align="center">
-  <i>Let's build something extraordinary together! 🚀</i>
+  <i>Crafting AI. Building Web. Creating Experiences. 🚀</i>
 </p>
