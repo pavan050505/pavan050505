@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <b>AI/DS Engineer • Full-Stack Developer • Creative Technologist</b>
+  <b>AI/DS Engineer •  Creative Technologist</b>
 </p>
 
 ---
