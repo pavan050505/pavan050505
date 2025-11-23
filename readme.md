@@ -43,21 +43,45 @@ I'm highly interested in **Machine Learning, NLP, Computer Vision, Full-Stack We
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan050505&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan050505&layout=compact&theme=default" height="160" />
-</p>
+### 📈 GitHub Activity Dashboard
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pavan050505&show_icons=true&theme=default" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan050505&layout=compact&theme=default" height="170"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan050505&theme=default" height="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="mailto:pavanbhosle1616@gmail.com">📩 Email</a> •
-  <a href="https://www.linkedin.com/in/pavan-bhosle-877b9624b/">LinkedIn</a> •
-  <a href="https://twitter.com/pavan161698">Twitter</a> •
-  <a href="https://dev.to/pavanbhosle1616">DEV.to</a>
+  <a href="mailto:pavanbhosle1616@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pavan-bhosle-877b9624b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/pavan_bhosle_05/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/PavanBhosle005">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="45" />
+  </a>
 </p>
+
 
 ---
 
